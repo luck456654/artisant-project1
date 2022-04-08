@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artisant-project1/static/css/main.58e0708a.css",
+    "main.js": "/artisant-project1/static/js/main.0e25ba55.js",
+    "static/js/787.28cb0dcd.chunk.js": "/artisant-project1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/imgProduct.png": "/artisant-project1/static/media/imgProduct.38287535ab84e8c38245.png",
+    "index.html": "/artisant-project1/index.html",
+    "main.58e0708a.css.map": "/artisant-project1/static/css/main.58e0708a.css.map",
+    "main.0e25ba55.js.map": "/artisant-project1/static/js/main.0e25ba55.js.map",
+    "787.28cb0dcd.chunk.js.map": "/artisant-project1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e0708a.css",
+    "static/js/main.0e25ba55.js"
+  ]
+}
