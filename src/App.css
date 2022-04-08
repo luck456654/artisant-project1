@@ -1,0 +1,49 @@
+..body{
+  background-color: #FFFFFF;
+  font-family: 'Open Sans';
+}
+.content{
+  display: flex;
+  flex-direction: row;
+}
+.content__card{
+  width: 22.10vw;
+  height: 36.30vw;
+  background-color: #FFFFFF;
+  margin-right: 0.87vw;
+  flex-shrink:0;
+  flex-grow: 0;
+  padding: 0.51vw 0.58vw 0.58vw 0.51vw;
+  border-radius: 0.7vw;
+  border-color: grey;
+  border-width: 2px;
+}
+.content__imgProduct{
+  background-image: url(imgProduct.png);
+  background-size: cover; 
+  width: 22.46vw;
+  height: 29.49vw;
+  border-radius: 0.7vw;
+}
+.content__info{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 0.87vw;
+}
+.content__price{
+  color: blue;
+}
+.content__price-title{
+  color: black;
+}
+.content__titleProduct{
+  color: white;
+  width: 15vw;
+  margin-left: 2vw;
+  padding-top: 24vw;
+  font-size: 1.30vw;
+}
+.content__label{
+color:#808080;
+}
